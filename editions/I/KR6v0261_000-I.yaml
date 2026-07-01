@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0261/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 建崇寺浮圖銘
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0099.xml
+    old_id: I01n0099
+hash: sha256:b5847393f1f67baafaeec2e4daa5a835ab93b243ee0675ae03f2dde02f4dc280
