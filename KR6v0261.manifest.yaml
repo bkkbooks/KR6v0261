@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0261/v1
 canonical_location: https://kanripo.org/bkk/KR6v0261/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 建崇寺浮圖銘
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0261_000.yaml, hash: 'sha256:b5847393f1f67baafaeec2e4daa5a835ab93b243ee0675ae03f2dde02f4dc280'}
-  - {seq: 1, filename: KR6v0261_001.yaml, hash: 'sha256:a7bc3cb1cd63088131e4e5d379266d6187cb96fc78243622386a941ec31a2c4d'}
+  - {seq: 1, filename: KR6v0261_001.yaml, hash: 'sha256:abb1b1319a5a630614cb5326bc19a782ad0299c873e987fbae302c7958beb733'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0261_000.markers.yaml, hash: 'sha256:837e791f5527a7f70e1410147618a793d267b374f68bed464ba145e34d6f2b81'}
-  - {seq: 1, role: markers, filename: assets/KR6v0261_001.markers.yaml, hash: 'sha256:3a2e16fa84ad4d6a0b5249fb7c85fa36d81a24ebf76fa97f0d24c26551d84131'}
+  - {seq: 1, role: markers, filename: assets/KR6v0261_001.markers.yaml, hash: 'sha256:ceffbbfca952a3a444b38efcb41c098f50499b17d7ce59e5a90c0bb714696db1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -57,4 +57,7 @@ table_of_contents:
   label: 之二　碑陰
   type: mulu
   level: 1
-hash: sha256:283dec932a7516c0f52e8bc81efdd833397839873f6244d8983abcec171f33bf
+hash: sha256:c868b6e8650557bf8738846ac4665909b5043d6fdafd526eb69025879db2c1fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
